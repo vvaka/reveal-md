@@ -22,7 +22,7 @@
     "express": "4.11.0",
     "mustache": "1.0.0",
     "open": "0.0.5",
-    "glob": "4.3.5",
+    "glob": "5.0.15",
     "commander": "2.6.0",
     "colors": "1.0.3"
   }
