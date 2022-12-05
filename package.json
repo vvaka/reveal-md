@@ -18,8 +18,8 @@
     "reveal-md": "bin/server-cli.js"
   },
   "dependencies": {
-    "reveal.js": "3.0.0",
-    "express": "4.11.0",
+    "reveal.js": "3.5.0",
+    "express": "4.17.3",
     "mustache": "1.0.0",
     "open": "0.0.5",
     "glob": "4.3.5",
